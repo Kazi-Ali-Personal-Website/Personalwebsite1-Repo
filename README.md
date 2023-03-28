@@ -20,9 +20,12 @@
 
  # How to Edit or View this Project
 
-* -- In CLI, paste git clone git@github.com:Kazi-Ali-Personal-Website/Personalwebsite1-Repo.git
+* -- In CLI, paste --> git clone git@github.com:Kazi-Ali-Personal-Website/Personalwebsite1-Repo.git <--
+* -- If not, go copy SSH and make sure you go on Main Branch for the latest code.
 
  # Contact Info
 
 * [Insert Email Here]
 * [Insert Linkedin Here]
+
+HAVE FUN!
