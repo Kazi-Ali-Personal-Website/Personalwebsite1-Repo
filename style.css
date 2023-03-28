@@ -23,6 +23,7 @@ header {
     overflow: hidden;
     background-color: #5c5555;
     font-size: 30px;
+    text-decoration: none;
   
    
 }
@@ -45,7 +46,27 @@ header {
 
 .headerlist2:active {
   background-color: rgba(41, 36, 37, 0.486);
+}
 
+
+.headerlist2:link {
+
+text-decoration: none;
+
+
+}
+
+.headerlist2:visited {
+
+text-decoration: none;
+
+}
+
+
+.headerlist3:hover {
+
+  
+  text-decoration: none;
 }
 
 .image1 {
@@ -65,8 +86,17 @@ header {
   margin-top: 30px;
   border: solid ;
   background-color: rgb(48, 47, 48);
-
 }
+ #einstein {
+
+  background-color: rgb(48, 47, 48);
+  font-size: 80px;
+  margin-bottom: 186px;
+
+ }
+
+
+
 
 .div2 {
 
@@ -188,6 +218,12 @@ margin-top: -40px;
   
 }
 
+.footerlist2:active {
+
+background-color: black;
+
+}
+
 footer {
 
 position: abs1;
@@ -195,16 +231,24 @@ position: abs1;
 
 }
 
-.footer1 {
-
-}
-
-
 
 
 /*Portfolio HTML */
 
 section {
 
-  display: flex;
+  
+  background-color: rgb(48, 47, 48);
+  
+}
+
+a{
+
+  text-decoration: none;
+}
+
+a:link {
+
+  color: none;
+
 }
