@@ -8,7 +8,7 @@
 
 * -- To get a developer postion at a company
 * -- To improve my HTML, CSS, and Js skills
-* -- 
+
  
  # Important Dates
 
