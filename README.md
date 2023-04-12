@@ -17,6 +17,8 @@
 * -- March 28, 2023 -- ----> Working and finishing the Block9 Workshop
 * -- March 29, 2023 -- ----> Research and see if I can add anything noteworthy to the website.
 * -- March 30, 2023 -- ----> Initial Project (Block9 Workshop) is due, will continue work on the website....
+* -- April 8, 2023  -- ----> Started revision on the website
+* --April 10, 2023  -- ----> Added new CSS and Div Elements along with flexbox
 
  # How to Edit or View this Project
 

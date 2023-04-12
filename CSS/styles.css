@@ -15,7 +15,8 @@ body {
 
 .logo-area {
 
-    display: flex;          
+    display: flex;       
+    
 }
 
 .logo {   
@@ -30,6 +31,8 @@ body {
     transition: transform 1s, opacity 1s, box-shadow 5s;        
     border-width: 3px;
     z-index: 1;
+    color: black;
+    
 }
 
 .logo:hover {
