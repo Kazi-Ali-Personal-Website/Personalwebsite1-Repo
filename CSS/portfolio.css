@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to right, black, white, rgb(0, 0, 0));
+}
+
+#portfolio-body {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  justify-content: space-around;
+  margin-right: 500px;
+}
+
+iframe {
+  height: 400px;
+  width: 700px;
+  border-radius: 20px;
+  border: solid;
+}
